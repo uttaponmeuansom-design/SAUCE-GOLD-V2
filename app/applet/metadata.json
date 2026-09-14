@@ -1,0 +1,8 @@
+{
+  "name": "SAUCE GOLD ERP & Business Analytics",
+  "description": "Enterprise Resource Planning, Inventory, Production Batch Tracking, and High-Tech Financial Trajectory Analytics for SAUCE GOLD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
